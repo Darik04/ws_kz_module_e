@@ -1,0 +1,11 @@
+{
+    "name": "News app",
+    "short_name": "NA",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "icons": [{
+      "src": "ai-news.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }]
+  }

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module E - Task 3</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <!-- <div class="wrapper">
+        <div class="modal">
+            <h2>This is my modal</h2>
+ And this is some content.<br/>
+ I can be <b style="color: green">any</b> HTML.
+            <div class="btn">Accept</div>
+        </div>
+    </div> -->
+
+    <!-- <div class="countdown">
+        <h1>CountDown</h1>
+        <div class="message">Message</div>
+        <div>dasdjad</div>
+    </div> -->
+    <count-down message="Done" date="2024-01-01T00:00:00"></count-down>
+    <count-down message=" Happy new year" ></count-down>
+    <confirmation-modal label="OKtest">
+        <h2>This is my modal</h2>
+        And this is some content.<br/>
+        I can be <b style="color: green">any</b> HTML.
+    </confirmation-modal>
+    <limited-textarea maxchars="20" placeholder="Text.." onchange="console.log(event.target.value)"></limited-textarea>
+    <script src="./limited-textarea/limited_textarea.js"></script>
+    <script src="./confirmation-modal/confirmation_modal.js"></script>
+    <script src="./count-down/count_down.js"></script>
+    <script>
+        const confirmModal = document.querySelector('confirmation-modal')
+        confirmModal.addEventListener('confirm', () => console.log('MODAL CONFIRMED'))
+    </script>
+</body>
+</html>

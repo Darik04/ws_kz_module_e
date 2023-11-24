@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Module E Task 2</title>
+    <link rel="stylesheet" href="bootstrap.css">
+    <link href="style.css" rel="stylesheet">
+    <script src="index.js" defer></script>
+    <link rel="manifest" href="manifest.webmanifest">
+  </head>
+  <body>
+    <header class="header bg-primary shadow-sm">
+      <div class="container h-container justify-content-between">
+        <h1 class="h-logo">News app</h1>
+        <h3 class="h-install" id="installIcon">Install APP</h3>
+      </div>
+    </header>
+
+    <div class="container">
+      <div class="content row">
+        <h2>Last news: </h2>
+        <div id="noitify"></div>
+        <div class="py-2"></div>
+        <div class="card shadow-sm p-3 m-1 my-2 c-card">
+          <img src="https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg" alt="Test">
+          <h3>News title</h3>
+          <p>Author: dasdsds</p>
+        </div>
+        <div class="card shadow-sm p-3 m-1 my-2 c-card">
+          <img src="https://buffer.com/cdn-cgi/image/w=1000,fit=contain,q=90,f=auto/library/content/images/size/w1200/2023/10/free-images.jpg" alt="Test">
+          <h3>News title</h3>
+          <p>Author: dasdsds</p>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      const installIcon = document.querySelector('#installIcon')
+      // Установка
+      let defaultInstallEvent = null;
+      window.addEventListener('beforeinstallprompt', (event) => {
+        console.log('beforeinstallprompt')
+        event.preventDefault();
+        defaultInstallEvent = event;
+      })
+      installIcon.addEventListener('click', (event) => {
+        console.log(defaultInstallEvent)
+        defaultInstallEvent.prompt();
+      })
+    </script>
+  </body>
+</html>

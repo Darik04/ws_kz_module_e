@@ -1,0 +1,26 @@
+.header{
+    height: 65px;
+}
+.h-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.h-logo{
+    color: #fff;
+    font-size: 26px;
+}
+.h-install{
+    color: #CACACA;
+    font-size: 22px;
+    margin: 0;
+    cursor: pointer;
+}
+
+.content{
+    padding: 100px 0 0;
+}
+
+.c-card{
+    width: 48%;
+}

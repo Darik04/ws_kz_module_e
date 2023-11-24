@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 12624,
+    "articles": [
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "The DOJ Tesla probe has expanded to include EV driving ranges",
+            "description": "The Department of Justice has expanded its investigation into Tesla\r\n, the company has confirmed. In an SEC filing\r\n, Tesla said the agency has issued subpoenas for information related to \"personal benefits, related parties, vehicle range and personnel decisi…",
+            "url": "https://www.engadget.com/the-doj-tesla-probe-has-expanded-to-include-ev-driving-ranges-201050660.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/iYupWMlHvFx219GjbLP5Sg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/90f9c460-6f87-11ee-aef5-e3ea78ebf8c5",
+            "publishedAt": "2023-10-23T20:10:50Z",
+            "content": "The Department of Justice has expanded its investigation into Tesla\r\n, the company has confirmed. In an SEC filing\r\n, Tesla said the agency has issued subpoenas for information related to \"personal b… [+2404 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Subaru is adopting Tesla’s EV charging port as holdout numbers dwindle",
+            "description": "Subaru has announced that it will adopt the North American Charging Standard starting in 2025. It’s the latest carmaker to implement the NACS port popularized by Tesla.",
+            "url": "https://www.theverge.com/2023/11/1/23942270/subaru-tesla-ev-charging-port-nacs",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/un-7lAs8_Fo9K3_1AA4hUGvYrm4=/0x0:8040x5363/1200x628/filters:focal(3081x3791:3082x3792)/cdn.vox-cdn.com/uploads/chorus_asset/file/25050542/2023_Subaru_Solterra_24.jpg",
+            "publishedAt": "2023-11-01T19:07:19Z",
+            "content": "Subaru is adopting Teslas EV charging port as holdout numbers dwindle\r\nSubaru is adopting Teslas EV charging port as holdout numbers dwindle\r\n / Subaru has announced that it will implement the North … [+1467 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "Lucid EVs will be able to access Tesla's Superchargers starting in 2025",
+            "description": "Lucid's electric vehicles will be able to plug into over 15,000 Tesla Superchargers in North America starting in 2025. The automaker is the latest entry in the growing list of companies pledging to support the North American Charging Standard (NACS), also kno…",
+            "url": "https://www.engadget.com/lucid-evs-will-be-able-to-access-teslas-superchargers-starting-in-2025-055045292.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/cLamIJynTVqTuxElMIvb0g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/52b603b0-7d2b-11ee-9eff-5b10c26861ec",
+            "publishedAt": "2023-11-07T05:50:45Z",
+            "content": "Lucid's electric vehicles will be able to plug into over 15,000 Tesla Superchargers in North America starting in 2025. The automaker is the latest entry in the growing list of companies pledging to s… [+1591 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Tesla profits dip as it invests in factory upgrades and AI development",
+            "description": "Tesla reported its Q3 earnings for 2023 in which the company’s revenues dipped compared to the previous quarter thanks to planned factory shutdowns.",
+            "url": "https://www.theverge.com/2023/10/18/23919336/tesla-q3-2023-earnings-revenue-profit-margin",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/ftQ6dGW3gsYMTqFw9gx8ajM9QD8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986648/acastro_STK086_03.jpg",
+            "publishedAt": "2023-10-18T20:44:47Z",
+            "content": "Tesla profits dip as it invests in factory upgrades and AI development\r\nTesla profits dip as it invests in factory upgrades and AI development\r\n / Tesla posted its third quarter earnings, and again, … [+3677 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Umar Shakir",
+            "title": "Tesla’s first Cybertruck deliveries will happen on November 30th",
+            "description": "Tesla will deliver the first units of its electric pickup truck Cybertruck on November 30th after missing multiple previous deadlines. The pickup truck was originally announced in 2019.",
+            "url": "https://www.theverge.com/2023/10/18/23923048/tesla-cybertruck-ev-pickup-delivery-date-november-30",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/62Ec8D4sajTHu4Bt_FSub0updPE=/0x0:1240x620/1200x628/filters:focal(620x310:621x311)/cdn.vox-cdn.com/uploads/chorus_asset/file/25013210/04_Desktop.jpg",
+            "publishedAt": "2023-10-18T20:58:48Z",
+            "content": "Teslas first Cybertruck deliveries will happen on November 30th\r\nTeslas first Cybertruck deliveries will happen on November 30th\r\n / Tesla has announced a new first delivery date for the long-delayed… [+1542 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "$1,900 Tesla Cyberquad for sale again, less likely to maim children",
+            "description": "The kids’ version of the Tesla Cyberquad is back on sale. Made by Radio Flyer (the 106-year-old company known for its Americana-steeped red wagons), the children’s ride with Cybertruck stylings initially launched in 2021. However, it was recalled for not meet…",
+            "url": "https://www.engadget.com/1900-tesla-cyberquad-is-on-sale-again-less-likely-to-maim-children-174552173.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_AfYu7rtn_yhoOMmUO0l7g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDI-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/efbe8840-83d8-11ee-8fdb-4a4664d6118d",
+            "publishedAt": "2023-11-15T17:45:52Z",
+            "content": "The kids version of the Tesla Cyberquad is back on sale. Made by Radio Flyer (the 106-year-old company known for its Americana-steeped red wagons), the childrens ride with Cybertruck stylings initial… [+2058 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Nikki Main",
+            "title": "Tesla Beats Charges in Fatal Autopilot Crash Trial",
+            "description": "Tesla gained a victory in a lawsuit against its driver-assistance software on Tuesday. A California jury ruled that Tesla’s autopilot feature was not at fault for the crash that killed a Tesla driver and injured two passengers in 2019, according to a Reuters …",
+            "url": "https://gizmodo.com/tesla-beats-charges-in-fatal-autopilot-crash-trial-1850977962",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3c6740355ff4badb8ab03ed3b656a349.jpg",
+            "publishedAt": "2023-10-31T20:50:00Z",
+            "content": "Tesla gained a victory in a lawsuit against its driver-assistance software on Tuesday. A California jury ruled that Teslas autopilot feature was not at fault for the crash that killed a Tesla driver … [+2579 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Nikki Main",
+            "title": "Tesla's String of Mass Recalls Over the Last 12 Months",
+            "description": "Tesla and recalls are no strangers as it seems to have one every few weeks or months due to various system glitches and malfunctions. From loose seat belts to power steering, to traction battery recalls, Tesla is no novice when it comes to fixing errors stemm…",
+            "url": "https://gizmodo.com/tesla-elon-musk-string-mass-recalls-over-last-12-months-1850957985",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/6827a0d1a763831eb6c592246ce2780d.jpg",
+            "publishedAt": "2023-10-27T21:00:00Z",
+            "content": "Tesla and recalls are no strangers as it seems to have one every few weeks or months due to various system glitches and malfunctions. From loose seat belts to power steering, to traction battery reca… [+1053 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Redwood Materials will recycle stationary storage batteries as it expands its scope",
+            "description": "Redwood Materials is recycling a 4MWh energy substation in Kauai as it expands the scope of batteries it processes. The company aims to grow beyond just EV and e-bike batteries into larger facilities.",
+            "url": "https://www.theverge.com/2023/11/7/23949188/redwood-materials-stationary-storage-battery-recycle-kauai",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hqCI-2cI_EHKDlbKBSSfFo8f8W4=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25062666/Anahola_KIUC.jpg",
+            "publishedAt": "2023-11-07T14:00:00Z",
+            "content": "Redwood Materials will recycle stationary storage batteries as it expands its scope\r\nRedwood Materials will recycle stationary storage batteries as it expands its scope\r\n / The company is recycling b… [+3842 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Andrew J. Hawkins",
+            "title": "Hertz is scaling back its EV ambitions because its Teslas keep getting damaged",
+            "description": "Hertz is slowing down its EV plans because many of the Teslas in its fleet are getting damaged by Uber drivers. The repairs are costly, and Tesla’s price cuts are causing Hertz’s fleet to lose value.",
+            "url": "https://www.theverge.com/2023/10/27/23934691/hertz-tesla-uber-ev-plans-damage-repair-price-cuts",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/Jkwfms_kRjCEnOYox7ChZ4LvaCc=/0x0:3000x1897/1200x628/filters:focal(1500x949:1501x950)/cdn.vox-cdn.com/uploads/chorus_asset/file/25037616/1556855574.jpg",
+            "publishedAt": "2023-10-27T14:09:44Z",
+            "content": "Hertz is scaling back its EV ambitions because its Teslas keep getting damaged\r\nHertz is scaling back its EV ambitions because its Teslas keep getting damaged\r\n / Also, Uber drivers, who are using ab… [+3726 chars]"
+        }
+    ]
+}
